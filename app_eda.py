@@ -1,3 +1,4 @@
+#pip install requiremenrts.txt
 import streamlit as st
 import pyrebase
 import time
